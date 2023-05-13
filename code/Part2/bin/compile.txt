@@ -1,0 +1,2 @@
+cd into code folder and then compile all files using: 		javac *.java
+Then run the code with: 									java Project
